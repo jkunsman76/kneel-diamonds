@@ -35,7 +35,7 @@ const database = {
         }
     ],
     orderBuilder: {
-        timestamp: 1
+        timestamp: 1,
     }
 }
 
